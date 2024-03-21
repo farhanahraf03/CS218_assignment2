@@ -1,5 +1,4 @@
-**Testing in AWS Cloud
-**
+**Testing in AWS Cloud**
 - Step 1 = Introduction - Download and install Python, Docker and SAM
 - Step 2 = Project Setup - Building and deploying with SAM CLI
 - Step 3 = Local testing - Working with SAM Events and SAM API Gateway emulators
@@ -7,8 +6,7 @@
 - Step 5 = Observability - Fetching SAM logs and using AWS X-ray to trace invocations of AWS Lambda
 - Step 6 = Cleanup - Delete the Cloudformation template, thereby deleting all the resources that arre created by that template
 
-**Key takeaways
-**
+**Key takeaways**
 - Basics of cloudformation templates and how they can be used to setup and cross reference AWS infrastructure
 - basics of unit testing using pytest framework
 - Uses API gatewway and how it can be used to trigger AWS Lambda functions
@@ -19,11 +17,11 @@
 - Integration test can be used to confirm if permissions are correctly configured or not
 - SAM has API gateway emulator that emulates the performance of an API gateway and runs locally
 
-**Bugs found
-**
+**Bugs found**
 - mock_s3 is deprecated in the latest versions -> use mock_aws instead
 - Pytest cache issues can be overriden by using the no caching command -> py.test -p no:cacheprovider
 
 **Screenshots**
-- Step 1 = Introduction - Download and install Python, Docker and SAM
+![image](https://github.com/farhanahraf03/CS218_assignment2/assets/42094234/f272ccaa-d9b7-4a2a-bf62-c487f08b1e9c)
+
 
