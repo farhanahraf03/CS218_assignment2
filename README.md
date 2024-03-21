@@ -25,28 +25,36 @@
 
 ![image](https://github.com/farhanahraf03/CS218_assignment2/assets/42094234/f272ccaa-d9b7-4a2a-bf62-c487f08b1e9c)
 
-Bug found
+**Bug found**
+
 ![image](https://github.com/farhanahraf03/CS218_assignment2/assets/42094234/33440da4-fc66-4d81-a5b2-9950928cbce5)
 
-Bug resolution
+**Bug resolution**
+
 ![image](https://github.com/farhanahraf03/CS218_assignment2/assets/42094234/a5266721-da6e-47ab-b402-d99ece54aace)
 
-Pytest unit test cases
+**Pytest unit test cases**
+
 ![image](https://github.com/farhanahraf03/CS218_assignment2/assets/42094234/95ffe90d-6816-4a0f-979e-f5c97904a610)
 
-Integration tests
+**Integration tests**
+
 ![image](https://github.com/farhanahraf03/CS218_assignment2/assets/42094234/ce30815b-817b-4880-9014-0250b1634e34)
 
-Cloudformation builds
+**Cloudformation builds**
+
 ![image](https://github.com/farhanahraf03/CS218_assignment2/assets/42094234/d775ebb2-e6a9-42ee-9801-f4a14a918b9c)
 
-Cloudformation output from deployed stack
+**Cloudformation output from deployed stack**
+
 ![image](https://github.com/farhanahraf03/CS218_assignment2/assets/42094234/6c67cb54-54f6-431c-a058-fe579959ca41)
 
-Tail of SAM logs for obersvability
+**Tail of SAM logs for obersvability**
+
 ![image](https://github.com/farhanahraf03/CS218_assignment2/assets/42094234/d43f4762-981d-4a09-a516-970f454dff9a)
 
-Invoking API gaetway endpoint
+**Invoking API gaetway endpoint**
+
 ![image](https://github.com/farhanahraf03/CS218_assignment2/assets/42094234/ef3f3bca-74e9-43f3-9068-8bb9d079c2bc)
 
 
