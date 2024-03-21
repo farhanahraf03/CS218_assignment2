@@ -9,7 +9,7 @@
 **Key takeaways**
 - Basics of cloudformation templates and how they can be used to setup and cross reference AWS infrastructure
 - basics of unit testing using pytest framework
-- Uses API gatewway and how it can be used to trigger AWS Lambda functions
+- Uses of API gatewway and how it can be used to trigger AWS Lambda functions
 - Using syntethic events to invoke a Lambda function
 - Using SAM acclerate to reduce deployment latency and test code quickly in AWS cloud
 - SAM logs can be used for observability to fetch logs that are generated when Lambda is invoked due to API Gateway
